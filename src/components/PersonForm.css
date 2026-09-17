@@ -1,0 +1,30 @@
+.person-form-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06);
+}
+
+.form-header {
+  margin-bottom: 25px;
+}
+
+.form-header h3 {
+  margin: 0;
+  font-weight: 700;
+  color: #111827;
+}
+
+.form-header p {
+  margin: 5px 0 0;
+  color: #6b7280;
+}
+
+.person-form-card .form-control {
+  min-height: 45px;
+}
+
+.person-form-card .btn {
+  min-height: 46px;
+  font-weight: 600;
+}
