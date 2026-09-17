@@ -79,6 +79,15 @@ The React frontend communicates with the Django backend through REST APIs using 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </div>
+## 🐍 Backend Repository
+
+This React frontend is connected to a **Django + Django REST Framework backend**.
+
+🔗 **Backend Repository:**
+
+[![Django Backend](https://img.shields.io/badge/Django%20Backend-View%20Repository-092E20?style=for-the-badge\&logo=django\&logoColor=white)](https://github.com/Neahans/person-crud-backend)
+
+👉 [View the Django Backend Repository](https://github.com/Neahans/person-crud-backend)
 
 ---
 
